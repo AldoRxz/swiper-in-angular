@@ -1,0 +1,54 @@
+# Angular generated files
+/dist/
+/out-tsc/
+/build/
+/.tmp/
+
+# Dependency directories
+/node_modules/
+/bower_components/
+
+# Compiled files
+*.dll
+*.exe
+*.out
+*.app
+*.log
+
+# IDE files
+.idea/
+*.swp
+*.swo
+*.bak
+
+# TypeScript compiled JavaScript files
+*.js
+*.js.map
+
+# Environment files
+src/environments/environment*.ts
+
+# Angular cache
+.angular/cache/
+
+# Coverage reports
+coverage/
+
+# Test outputs
+/test-output/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.log
+
+# Mac OS and Windows files
+.DS_Store
+Thumbs.db
+
+
+
+/node_modules/
+
